@@ -1,0 +1,118 @@
+
+game.png
+size: 1024, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 4, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 4, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveConvexOuter
+  rotate: false
+  xy: 108, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConcaveConvexOuter
+  rotate: false
+  xy: 108, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveInner
+  rotate: false
+  xy: 212, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConcaveInner
+  rotate: false
+  xy: 212, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveOuter
+  rotate: false
+  xy: 316, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConcaveOuter
+  rotate: false
+  xy: 316, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 420, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 420, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexConcaveOuter
+  rotate: false
+  xy: 524, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConvexConcaveOuter
+  rotate: false
+  xy: 524, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexInner
+  rotate: false
+  xy: 628, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConvexInner
+  rotate: false
+  xy: 628, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexOuter
+  rotate: false
+  xy: 732, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConvexOuter
+  rotate: false
+  xy: 732, 4
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
